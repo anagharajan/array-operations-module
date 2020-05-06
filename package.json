@@ -1,0 +1,26 @@
+{
+  "name": "array-operation-module",
+  "version": "1.0.0",
+  "description": "A module that provides basic array manipulation functions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anagharajan/array-operations-module.git"
+  },
+  "keywords": [
+    "array",
+    "sum",
+    "sort",
+    "average",
+    "unique"
+  ],
+  "author": "anagha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anagharajan/array-operations-module/issues"
+  },
+  "homepage": "https://github.com/anagharajan/array-operations-module#readme"
+}
