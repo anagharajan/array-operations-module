@@ -27,7 +27,7 @@ module.exports = {
         var res = [];
 
         for (var i = 0; i <arr.length; i++) {
-            if(res.indexOf(arr[i] === -1)) {
+            if(res.indexOf(arr[i]) === -1) {
                 res.push(arr[i]);
             }
         }
@@ -38,7 +38,7 @@ module.exports = {
         var res = [];
 
         for (var i = 0; i <arr.length; i++) {
-            if(res.indexOf(arr[i] === -1)) {
+            if(res.indexOf(arr[i]) === -1) {
                 res.push(arr[i]);
             }
         }
@@ -53,7 +53,7 @@ module.exports = {
         var res = [];
 
         for (var i = 0; i <arr.length; i++) {
-            if(res.indexOf(arr[i] === -1)) {
+            if(res.indexOf(arr[i]) === -1) {
                 res.push(arr[i]);
             }
         }
