@@ -1,7 +1,7 @@
 module.exports = {
     SumArray: function(arr) {
-        return arr.reduce(function (a, b) {
-            return a + b
+        return arr.reduce(function (a, c) {
+            return a + c
         }, 0);
     },
 
