@@ -12,10 +12,10 @@ var array = require('array-operation-module');
 
 ## METHODS
 
-# 1.SumArray
-# 2.AverageArray
-# 3.MaxArray
-# 4.MinArray
-# 5.UniqArray
-# 6.UniqArraySort
-# 7.UniqStringArraySort
+1.SumArray
+2.AverageArray
+3.MaxArray
+4.MinArray
+5.UniqArray
+6.UniqArraySort
+7.UniqStringArraySort
